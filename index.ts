@@ -1,1 +1,1 @@
-console.log('Index File Updated')
+console.log('Index File')
